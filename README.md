@@ -9,7 +9,7 @@
 
 # 🏆 Achievements:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderAnnamov&theme=gruvbox&column=10&margin-w=70)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderAnnamov&theme=gruvbox&column=10&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
   
  # 🔧🔨 Tools:
   <div>
