@@ -7,6 +7,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4000&width=435&lines=I%E2%80%99m+sure+you+can+find+your+way+out+with+;one+of+your+two+faces.)](https://git.io/typing-svg)
 
+# 🏆 Streak stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexanderAnnamov&theme=dark)](https://git.io/streak-stats)
+
 # 🏆 Achievements:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderAnnamov&theme=gruvbox&column=10&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
