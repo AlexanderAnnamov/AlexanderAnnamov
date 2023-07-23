@@ -14,6 +14,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 # 📲 Social media:
  <div id="badges">
     <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B0%D0%BD%D0%BD%D0%B0%D0%BC%D0%BE%D0%B2-9349b8284/" target="_blank">
