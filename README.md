@@ -7,9 +7,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4000&width=435&lines=I%E2%80%99m+sure+you+can+find+your+way+out+with+;one+of+your+two+faces.)](https://git.io/typing-svg)
 
-# 🏆 Streak stats:
+# 🏆 GitHub stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexanderAnnamov&theme=dark)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AlexanderAnnamov&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexanderAnnamov&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 # 🏆 Achievements:
 
