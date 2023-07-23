@@ -20,6 +20,8 @@
   </tr>
 </table>
 
+node updater.js ${{ github.repository_owner }} <themeName>
+
 # 🏆 Achievements:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderAnnamov&theme=gruvbox&column=10&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
