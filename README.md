@@ -8,9 +8,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+sure+you+can+find+your+way+out+with+one+of+your+two+faces.)](https://git.io/typing-svg)
 
 # 🏆 Achievements:
-
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderAnnamov&theme=gruvbox&column=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+</p>
  # 🔧🔨 Tools:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
