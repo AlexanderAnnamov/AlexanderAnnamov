@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+sure+you+can+find+your+way+out+with+one+of+your+two+faces.)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderAnnamov&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderAnnamov&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
  # 🔧🔨 Tools:
   <div>
